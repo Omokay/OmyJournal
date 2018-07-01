@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4148330585",
+    "firebase_url": "https://omy-journal.firebaseio.com",
+    "project_id": "omy-journal",
+    "storage_bucket": "omy-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4148330585:android:8eaad7f18692e8ec",
+        "android_client_info": {
+          "package_name": "com.example.david.omy_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4148330585-0o6lcrcdddfke8evddh2ghbdkldq06rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.david.omy_journal",
+            "certificate_hash": "fe6dcb671b269814fbdcdd39a4748b55b687ba2b"
+          }
+        },
+        {
+          "client_id": "4148330585-khqma34e2qqbgtith3gnjfdlve1d0743.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATVpCagir_DcD0FwFnw21cQlldA6X-OjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4148330585-khqma34e2qqbgtith3gnjfdlve1d0743.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
